@@ -5,9 +5,9 @@ from tkinter        import messagebox
 
 import json
 # path for text file containing details of id and pass 
-user_file = 'D:\\_Sem 4\\Scientific programming\\Innovative\\final1\\Users.txt' 
+user_file = #Add path here 
 # sample path for opening a user specific data file
-sample_id_path = 'D:\\_Sem 4\\Scientific programming\\Innovative\\final1\\datafiles\\'
+sample_id_path = #Add path here
 # API AND HELPER FUNCTIONS #######################################
 
 nse=Nse()
