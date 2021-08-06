@@ -17,9 +17,8 @@ import Login
 #   Path for all related files
 
     # Image path for login page
-login_image = 'D:\\_Sem 4\\Scientific programming\\Innovative\\final1\\Login_image.jpg'
-
-icon_path='D:\\_Sem 4\\Scientific programming\\Innovative\\final1\\Icon.png'
+login_image = #Add path here
+icon_path = #Add path here
 
 
 
