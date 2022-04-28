@@ -10,15 +10,17 @@ from datetime       import datetime
 
 import tkinter as ttk
 import json
+import os
 
 import Helper
-import Login
 
 #   Path for all related files
+dirname = os.path.dirname(__file__)
+# Image path for login page
+login_image = os.path.join(dirname, 'Images\\Login_image.jpg')
 
-    # Image path for login page
-login_image = #Add path here
-icon_path = #Add path here
+#path for Icon Image
+icon_path= os.path.join(dirname, 'Images\\Icon.png')
 
 
 
