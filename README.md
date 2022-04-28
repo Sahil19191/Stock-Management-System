@@ -173,9 +173,9 @@ Contributions are what make the open source community such an amazing place to b
 
 Sahil Patel - [@Sahil19191](https://github.com/Sahil19191) - sp667369@gmail.com
 
-Parv Patel - 
+Parv Patel - [@flanker29](https://github.com/flanker29) - patelparvmb@gmail.com
 
-Raj Patel - [@Raj-mac24](https://github.com/Raj-mac24) - 
+Raj Patel - [@Raj-mac24](https://github.com/Raj-mac24) - 24rajpatel48@gmail.com
 
 Project Link: [https://github.com/Sahil19191/Stock-Management-System](https://github.com/Sahil19191/Stock-Management-System)
 
