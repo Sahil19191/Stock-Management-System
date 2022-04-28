@@ -24,7 +24,7 @@
 <br />
 <p align="center">
   <a href="">
-    <img src="Screenshots/Logo.jpg" alt="Logo" width="160" height="80">
+    <img src="Screenshots/LOGO.jpg" alt="Logo" width="160" height="80">
   </a>
 
   <h3 align="center">Stock Management System with GUI</h3>
