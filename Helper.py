@@ -4,10 +4,14 @@ from tkinter        import *
 from tkinter        import messagebox
 
 import json
+import os
+
+dirname = os.path.dirname(__file__)
+
 # path for text file containing details of id and pass 
-user_file = #Add path here 
+user_file = os.path.join(dirname, 'Login_Details\\Users.txt') 
 # sample path for opening a user specific data file
-sample_id_path = #Add path here
+sample_id_path = os.path.join(dirname, 'datafiles\\')
 # API AND HELPER FUNCTIONS #######################################
 
 nse=Nse()
