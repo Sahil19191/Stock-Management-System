@@ -130,21 +130,21 @@ Simply run the main.py file with the command `python3 main.py`
 * Login Page
 Register for new id or login directly with previous id and in case you forgot there is an option of forgot password too.
 
-	Select the appropiate way to proceed.
+Select the appropiate way to proceed.
 
 
 * Home Page
 In this page we covered all important features like FUNDS, BUY, SELL, 
 PORTFOLIO, SEARCH.
 
- A list of some stocks and a search bar to search for a particular stock.
+A list of some stocks and a search bar to search for a particular stock.
 
 
 * Funds
- Using this you can increase your funds or withdraw it easily.
+Using this you can increase your funds or withdraw it easily.
 
 * Buy and Sell
- Using these window you can buy or sell stocks within an instant.
+Using these window you can buy or sell stocks within an instant.
 
 
 
